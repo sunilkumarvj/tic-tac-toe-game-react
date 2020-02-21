@@ -1,4 +1,4 @@
-## Demo of the tic-tac-toe game https://sunilkumarvj.github.io/tic-tac-toe-game-react/
+## Demo of the tic-tac-toe game: https://sunilkumarvj.github.io/tic-tac-toe-game-react/
 
 ## Available Components
 
