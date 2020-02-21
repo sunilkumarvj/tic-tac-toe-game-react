@@ -1,4 +1,4 @@
-Tic Tac Toe game project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Demo of the tic-tac-toe game https://sunilkumarvj.github.io/tic-tac-toe-game-react/
 
 ## Available Components
 
